@@ -1,2 +1,2 @@
 # MIXREG_censored-SMSN
-repositório de algoritmos em R e Stan para utilização de modelos de mistura de regressão com censura na resposta..
+Repository of algorithms in R and Stan to use mixed regression models with response censorship.
